@@ -18,6 +18,8 @@ int main(void)
     uart_init( 9600 );
     printf("hej leo:)");
 
+    //change in main
+
   while(1)
   {
 
