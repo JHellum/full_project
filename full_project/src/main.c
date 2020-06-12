@@ -15,8 +15,9 @@
 
 int main(void)
 {
+    hej leo:)
   while(1)
   {
-  
+
   }
 }
