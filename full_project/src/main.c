@@ -15,7 +15,9 @@
 
 int main(void)
 {
-    hej leo:)
+    uart_init( 9600 );
+    printf("hej leo:)");
+
   while(1)
   {
 
